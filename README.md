@@ -1,2 +1,2 @@
 "# CursoBasicoGit" 
-linea nueva
+soy la linea 2
